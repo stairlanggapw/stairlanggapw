@@ -1,6 +1,5 @@
 ## *Hello World! I'm Stefanus Airlangga👋*
 ![gif animated](img/github-header-banner.png)
-# 💫 About Me:
 🔭 I’m currently working on<br>Improving my skills through small to medium projects<br><br>👯 I’m looking to collaborate on<br>Web projects and open to learning with others<br><br>🤝 I’m looking for help with<br>Best practices and deeper understanding of coding<br><br>🌱 I’m currently learning<br>HTML, CSS, JavaScript, and basic web development<br><br>💬 Ask me about<br>My coding journey and learning experience<br><br>⚡ Fun fact<br>I balance coding with sports to stay productive
 
 
