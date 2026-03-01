@@ -1,7 +1,5 @@
 ![gif animated](img/github-header-banner.png)
 ## *HII!👋*
-🔭 I’m currently working on<br>Improving my skills through small to medium projects<br><br>👯 I’m looking to collaborate on<br>Web projects and open to learning with others<br><br>🤝 I’m looking for help with<br>Best practices and deeper understanding of coding<br><br>🌱 I’m currently learning<br>HTML, CSS, JavaScript, and basic web development<br><br>💬 Ask me about<br>My coding journey and learning experience<br><br>⚡ Fun fact<br>I balance coding with sports to stay productive
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanus-airlangga/) 
