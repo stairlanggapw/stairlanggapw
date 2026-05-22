@@ -2,8 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Heyy%20%F0%9F%91%8B%20What%27s%20Up!!&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&color=gradient"/>
 </div>
 
----
-
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5pNzBwZGk0MXBtNnlhZWpudG82emEwZXZrdGhjcjVtY25tZzVjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FkZSwIu3O7BIe91zPZ/giphy.gif"/>
 </div>
