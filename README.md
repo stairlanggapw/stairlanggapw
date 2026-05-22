@@ -69,10 +69,10 @@
 
 
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">👾 Pacman Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stairlanggapw/stairlanggapw/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/stairlanggapw/stairlanggapw/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph"/>
 </div>
 
 
