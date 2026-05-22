@@ -70,11 +70,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=stairlanggapw&theme=tokyonight&hide_border=true" height="150" alt="streak graph"/>
-</div>
-
-
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
