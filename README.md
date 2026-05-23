@@ -3,11 +3,9 @@
 </div>
 
 
-
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/FkZSwIu3O7BIe91zPZ/giphy.gif"/>
+  <img height="200" src="https://raw.githubusercontent.com/stairlanggapw/stairlanggapw/main/anime.gif" />
 </div>
-
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
