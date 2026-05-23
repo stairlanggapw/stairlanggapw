@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img height="200" src="https://raw.githubusercontent.com/stairlanggapw/stairlanggapw/main/anime.gif" />
 </div>
 
 
