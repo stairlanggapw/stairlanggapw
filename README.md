@@ -76,14 +76,6 @@
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stairlanggapw&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
-
-
 <h2 align="center">👾 Pacman Contribution Graph</h2>
 
 <div align="center">
