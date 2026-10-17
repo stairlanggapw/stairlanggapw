@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/Vinland Saga Night GIF.gif" alt="Demo Aplikasi" width="600">
+  <img width="1200" src="img/Vinland Saga Night GIF.gif" alt="Demo Aplikasi" width="600">
 </div>
 
 <div data-importer="socials" align="center">
