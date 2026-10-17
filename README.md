@@ -28,12 +28,4 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stairlanggapw/stairlanggapw/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stairlanggapw/stairlanggapw/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stairlanggapw/stairlanggapw/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
   ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31364hmdml6jkknufgigs4kv5ezi&width=600&time=0&logo=0)
