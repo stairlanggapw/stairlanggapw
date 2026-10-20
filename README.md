@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="500" src="img/Vinland Saga Night GIF.gif" alt="Demo Aplikasi" width="600">
+  <img width="500" src="img/Vinland Saga Night GIF.gif" alt="Demo Aplikasi">
   <img width="500" src="img/gif.gif" alt="Demo Aplikasi">
 </div>
 
