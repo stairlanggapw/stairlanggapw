@@ -1,6 +1,6 @@
-<div align="center">
-  <img width="500" src="img/Vinland Saga Night GIF.gif" alt="Demo Aplikasi">
-  <img width="500" src="img/gif.gif" alt="Demo Aplikasi">
+<div align="display: flex; justify-content: center; gap: 10px;">
+  <img width="45%" src="img/Vinland Saga Night GIF.gif" alt="Demo Aplikasi">
+  <img width="45%" src="img/gif.gif" alt="Demo Aplikasi">
 </div>
 
 ###
